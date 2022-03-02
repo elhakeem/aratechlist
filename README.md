@@ -28,3 +28,14 @@ You can contribute to the list by adding resources that doesn't exist. Contribut
 2. Update `/src/data.json` with the new resource.
 3. Make your commit.
 4. Open a PR to this repo.
+
+---
+# Data fields description.
+- *name* The name of the author or the owner of this resource.
+- *blog* The blog/resource name.
+- *url* The resource url.
+- *logo* Resource logo image url.
+- *emojie* A descriptive emoji for the resource. We usually use 🌍 for websites, 🧩 for games and ▶️ for channels, but feel free to put any descriptive emoji you like.
+- *description* Not too long description of this resource.
+- *keywords* A list of keywords and topics that resource covers.
+

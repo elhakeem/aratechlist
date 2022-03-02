@@ -32,5 +32,8 @@
         h3 {
             margin-top: 30px;
         }
+        a {
+            color: yellow;
+        }
     }
 </style>

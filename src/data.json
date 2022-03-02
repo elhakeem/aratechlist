@@ -119,5 +119,21 @@
             "algorithms",
             "data structures"
         ]
+    },
+    {
+        "name": "أكاديمية حسوب",
+        "blog": "أكاديمية حسوب",
+        "url": "https://academy.hsoub.com/",
+        "logo": "data:image/png;base64,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",
+        "emoji": "🌍",
+        "description": "تركّز أكاديمية حسوب بشكل رئيسي على تعليم البرمجة، إدارة الأعمال بمُختلف تفرّعاتها، التسويق والمبيعات، التصميم والجرافيكس بمُختلف ألوانه، العمل الحر والعمل عن بعد",
+        "keywords": [
+            "programming",
+            "management",
+            "marketing",
+            "sales",
+            "graphics",
+            "freelancing"
+        ]
     }
 ]

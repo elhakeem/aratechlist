@@ -2,9 +2,11 @@
 
 # Arabic resource list.
 Is a list of Arabic resources to learn programming, design and mathematics.
+
 ---
 # Contribution.
 You can contribute to the list by adding resources that doesn't exist. Contribution should follow some guidelines to keep the project as clean and organized as possible.
+
 ---
 # Contribution guidelines.
 - Make a fork of this repo and open a PR to it from your fork.
@@ -19,6 +21,7 @@ You can contribute to the list by adding resources that doesn't exist. Contribut
 - Make sure all the urls you provided in the data are working before submitting a PR.
 - New resources should always be at the end of the data file.
 - Please follow [angular commit convention](https://gist.github.com/brianclements/841ea7bffdb01346392c) on your commit message.
+
 ---
 # Contribution steps.
 1. Make a fork of this repo.
